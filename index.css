@@ -10,7 +10,7 @@ h1{
 input {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
     font-weight: 500;
-    font-size: .8vw;
+    font-size: 200%;
     color: #fff;
     background-color: rgb(28,28,30);
     box-shadow: 0 0 .4vw rgba(0,0,0,0.5), 0 0 0 .15vw transparent;
@@ -18,7 +18,7 @@ input {
     border: none;
     outline: none;
     padding: 0.4vw;
-    max-width: 190px;
+    width: 20%;
     transition: .4s;
     margin: 3px;
 }
